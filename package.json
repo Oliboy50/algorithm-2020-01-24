@@ -1,0 +1,12 @@
+{
+  "name": "entretien_algo_bedrock",
+  "private": true,
+  "license": "ISC",
+  "repository": "https://github.com/Oliboy50/algorithm-2020-01-24",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
